@@ -13,6 +13,8 @@ class Solution:
                 maxLenght = max(maxLenght, i - start + 1)
 
             usedChar[s[i]] = i  # 这种字典的应用就是哈希表的思想,将字符串中的元素映射到一个位置!
+                                # python中的字典就是选用的哈希表的数据结构.所以如果算法用到哈希表,
+                                # 那么直接创建字典即可.
 
         return maxLenght
 
