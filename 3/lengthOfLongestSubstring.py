@@ -12,7 +12,7 @@ class Solution:
             else:
                 maxLenght = max(maxLenght, i - start + 1)
 
-            usedChar[s[i]] = i
+            usedChar[s[i]] = i  # 这种字典的应用就是哈希表的思想,将字符串中的元素映射到一个位置!
 
         return maxLenght
 
