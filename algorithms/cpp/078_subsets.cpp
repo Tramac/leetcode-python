@@ -12,6 +12,7 @@ vector<vector<int> > subsets(vector<int> &nums)
 	for(int i = 0; i < nums.size(); ++i)
 	{
 		int n = result.size();
+		// 核心思想，在前面的基础上依次添加新元素
 		for(int j = 0; j < n; ++j)
 		{
 			result.push_back(result[j]);
