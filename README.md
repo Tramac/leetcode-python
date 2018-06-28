@@ -8,6 +8,7 @@
 |9|[Palindrome Number(回文数字)](https://leetcode.com/problems/palindrome-number/description/) | [C++](./algorithms/cpp/009_isPalindrome.cpp)|Easy|
 |14|[Longest Common Prefix(最长共同前缀)](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](./algorithms/cpp/014_longestCommonPrefix.cpp)|Easy|
 |20|[Valid Parentheses(括号是否匹配)](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./algorithms/cpp/020_isValid.cpp)|Easy|
+|21|[Merge Two Sorted Lists(合并两个排序链表)](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./algorithms/cpp/021_mergeTwoLists.cpp)|Easy|
 |78|[Subsets(子集)](https://oj.leetcode.com/problems/subsets/) | [C++](./algorithms/cpp/078_subsets.cpp)|Medium|
 |88|[Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](./algorithms/cpp/088_merge.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
