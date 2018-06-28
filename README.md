@@ -15,6 +15,7 @@
 |35|[Search Insert Position(搜索插入位置)](https://leetcode.com/problems/search-insert-position/description/) | [C++](./algorithms/cpp/035_searchInsert.cpp)|Easy|
 |53|[Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/description/) | [C++](./algorithms/cpp/053_maxSubArray.cpp)|Easy|
 |58|[Length of Last Word(最后一个单词的长度)](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./algorithms/cpp/058_lengthOfLastWord.cpp)|Easy|
+|66|[Plus One(加1)](https://leetcode.com/problems/plus-one/description/) | [C++](./algorithms/cpp/066_plusOne.cpp)|Easy|
 |78|[Subsets(子集)](https://oj.leetcode.com/problems/subsets/) | [C++](./algorithms/cpp/078_subsets.cpp)|Medium|
 |88|[Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](./algorithms/cpp/088_merge.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
