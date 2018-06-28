@@ -10,6 +10,7 @@
 |20|[Valid Parentheses(括号是否匹配)](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./algorithms/cpp/020_isValid.cpp)|Easy|
 |21|[Merge Two Sorted Lists(合并两个排序链表)](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./algorithms/cpp/021_mergeTwoLists.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array(删除排序数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./algorithms/cpp/026_removeDuplicates.cpp)|Easy|
+|27|[Remove Element(移除元素)](https://leetcode.com/problems/remove-element/description/) | [C++](./algorithms/cpp/027_removeElement.cpp)|Easy|
 |78|[Subsets(子集)](https://oj.leetcode.com/problems/subsets/) | [C++](./algorithms/cpp/078_subsets.cpp)|Medium|
 |88|[Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](./algorithms/cpp/088_merge.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
