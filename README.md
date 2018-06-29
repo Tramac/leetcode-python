@@ -23,4 +23,5 @@
 |88|[Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](./algorithms/cpp/088_merge.cpp)|Easy|
 |100|[Same Tree(相同的树)](https://leetcode.com/problems/same-tree/description/)|[C++](./algorithms/cpp/100_isSameTree.cpp)|Easy|
 |101|[Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/description/)|[C++](./algorithms/cpp/101_isSymmetric.cpp)|Easy|
+|104|[Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/104_maxDepth.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
