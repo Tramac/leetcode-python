@@ -17,6 +17,7 @@
 |58|[Length of Last Word(最后一个单词的长度)](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./algorithms/cpp/058_lengthOfLastWord.cpp)|Easy|
 |66|[Plus One(加1)](https://leetcode.com/problems/plus-one/description/) | [C++](./algorithms/cpp/066_plusOne.cpp)|Easy|
 |67|[Add Binary(二进制求和)](https://leetcode.com/problems/add-binary/description/) | [C++](./algorithms/cpp/067_addBinary.cpp)|Easy|
+|70|[Climbing Stairs(爬楼梯)](https://leetcode.com/problems/climbing-stairs/description/) | [C++](./algorithms/cpp/070_climbStairs.cpp)|Easy|
 |78|[Subsets(子集)](https://oj.leetcode.com/problems/subsets/) | [C++](./algorithms/cpp/078_subsets.cpp)|Medium|
 |88|[Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](./algorithms/cpp/088_merge.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
