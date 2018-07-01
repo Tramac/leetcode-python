@@ -31,4 +31,5 @@
 |112|[Path Sum(路径总和)](https://leetcode.com/problems/path-sum/description/)|[C++](./algorithms/cpp/112_hasPathSum.cpp)|Easy|
 |118|[Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/description/)|[C++](./algorithms/cpp/118_generate.cpp)|Easy|
 |119|[Pascal's Triangle II(杨辉三角 II)](https://leetcode.com/problems/pascals-triangle-ii/description/)|[C++](./algorithms/cpp/119_getRow.cpp)|Easy|
+|121|[Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C++](./algorithms/cpp/121_maxProfit.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
