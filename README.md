@@ -28,4 +28,5 @@
 |108|[Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[C++](./algorithms/cpp/108_sortedArrayToBST.cpp)|Easy|
 |110|[Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/description/)|[C++](./algorithms/cpp/110_isBalanced.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree(二叉树的最小深度)](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/111_minDepth.cpp)|Easy|
+|112|[Path Sum(路径总和)](https://leetcode.com/problems/path-sum/description/)|[C++](./algorithms/cpp/112_hasPathSum.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
