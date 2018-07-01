@@ -29,4 +29,5 @@
 |110|[Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/description/)|[C++](./algorithms/cpp/110_isBalanced.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree(二叉树的最小深度)](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/111_minDepth.cpp)|Easy|
 |112|[Path Sum(路径总和)](https://leetcode.com/problems/path-sum/description/)|[C++](./algorithms/cpp/112_hasPathSum.cpp)|Easy|
+|118|[Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/description/)|[C++](./algorithms/cpp/118_generate.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
