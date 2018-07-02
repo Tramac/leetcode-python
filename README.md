@@ -48,3 +48,4 @@
 |202|[Happy Number(快乐数)](https://leetcode.com/problems/happy-number/description/)|[C++](./algorithms/cpp/202_isHappy.cpp)|Easy|
 |203|[Remove Linked List Elements(删除链表中的节点)](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](./algorithms/cpp/203_removeElements.cpp)|Easy|
 |*204|[Count Primes(计数质数)](https://leetcode.com/problems/count-primes/description/)|[C++](./algorithms/cpp/204_countPrimes.cpp)|Easy|
+|*205|[Isomorphic Strings(同构字符串)](https://leetcode.com/problems/isomorphic-strings/description/)|[C++](./algorithms/cpp/205_isIsomorphic.cpp)|Easy|
