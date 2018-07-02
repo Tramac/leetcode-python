@@ -34,4 +34,5 @@
 |121|[Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C++](./algorithms/cpp/121_maxProfit.cpp)|Easy|
 |122|[Best Time to Buy and Sell Stock II(买卖股票的最佳时机 II)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[C++](./algorithms/cpp/122_maxProfit.cpp)|Easy|
 |125|[Valid Palindrome(验证回文串)](https://leetcode.com/problems/valid-palindrome/description/)|[C++](./algorithms/cpp/125_isPalindrome.cpp)|Easy|
+|136|[Single Number(只出现一次的数字)](https://leetcode.com/problems/single-number/description/)|[C++](./algorithms/cpp/136_singleNumber.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
