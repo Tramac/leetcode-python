@@ -39,3 +39,4 @@
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
 |155|[Min Stack(最小栈)](https://leetcode.com/problems/min-stack/description/)|[C++](./algorithms/cpp/155_MinStack.cpp)|Easy|
 |160|[Intersection of Two Linked Lists(相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](./algorithms/cpp/160_getIntersectionNode.cpp)|Easy|
+|167|[Two Sum II - Input array is sorted(两数之和 II - 输入有序数组)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./algorithms/cpp/167_twoSum.cpp)|Easy|
