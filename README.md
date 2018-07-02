@@ -45,3 +45,4 @@
 |*189|[Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/description/)|[C++](./algorithms/cpp/189_rotate.cpp)|Easy|
 |190|[Reverse Bits(颠倒二进制位)](https://leetcode.com/problems/reverse-bits/description/)|[C++](./algorithms/cpp/190_reverseBits.cpp)|Easy|
 |191|[Number of 1 Bits(位1的个数)](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](./algorithms/cpp/191_hammingWeight.cpp)|Easy|
+|202|[Happy Number(快乐数)](https://leetcode.com/problems/happy-number/description/)|[C++](./algorithms/cpp/202_isHappy.cpp)|Easy|
