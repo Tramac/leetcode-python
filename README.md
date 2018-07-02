@@ -41,3 +41,4 @@
 |160|[Intersection of Two Linked Lists(相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](./algorithms/cpp/160_getIntersectionNode.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted(两数之和 II - 输入有序数组)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./algorithms/cpp/167_twoSum.cpp)|Easy|
 |169|[Majority Element(超过一半的数字)](https://leetcode.com/problems/majority-element/description/)|[C++](./algorithms/cpp/169_majorityElement.cpp)|Easy|
+|*172|[Factorial Trailing Zeroes(阶乘后的零)](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C++](./algorithms/cpp/172_trailingZeroes.cpp)|Easy|
