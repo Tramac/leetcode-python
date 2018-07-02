@@ -52,3 +52,4 @@
 |*206|[Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](./algorithms/cpp/206_reverseList.cpp)|Easy|
 |217|[Contains Duplicate(存在重复元素)](https://leetcode.com/problems/contains-duplicate/description/)|[C++](./algorithms/cpp/217_containsDuplicate.cpp)|Easy|
 |*219|[Contains Duplicate II(存在重复元素 II)](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C++](./algorithms/cpp/219_containsNearbyDuplicate.cpp)|Easy|
+|*225|[Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/description/)|[C++](./algorithms/cpp/225_MyStack.cpp)|Easy|
