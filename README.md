@@ -66,3 +66,4 @@
 |268|[Missing Number(缺失数字)](https://leetcode.com/problems/missing-number/description/)|[C++](./algorithms/cpp/268_missingNumber.cpp)|Easy|
 |283|[Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/description/)|[C++](./algorithms/cpp/283_moveZeroes.cpp)|Easy|
 |*290|[Word Pattern(单词模式)](https://leetcode.com/problems/word-pattern/description/)|[C++](./algorithms/cpp/290_wordPattern.cpp)|Easy|
+|292|[Nim Game(Nim游戏)](https://leetcode.com/problems/nim-game/description/)|[C++](./algorithms/cpp/292_canWinNim.cpp)|Easy|
