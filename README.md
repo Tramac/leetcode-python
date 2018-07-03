@@ -68,3 +68,4 @@
 |*290|[Word Pattern(单词模式)](https://leetcode.com/problems/word-pattern/description/)|[C++](./algorithms/cpp/290_wordPattern.cpp)|Easy|
 |292|[Nim Game(Nim游戏)](https://leetcode.com/problems/nim-game/description/)|[C++](./algorithms/cpp/292_canWinNim.cpp)|Easy|
 |344|[Reverse String(反转字符串)](https://leetcode.com/problems/reverse-string/description/)|[C++](./algorithms/cpp/344_reverseString.cpp)|Easy|
+|345|[Reverse Vowels of a String(反转字符串中的元音字母)](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C++](./algorithms/cpp/345_reverseVowels.cpp)|Easy|
