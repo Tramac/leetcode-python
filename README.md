@@ -65,3 +65,4 @@
 |263|[Ugly Number(丑数)](https://leetcode.com/problems/ugly-number/description/)|[C++](./algorithms/cpp/263_isUgly.cpp)|Easy|
 |268|[Missing Number(缺失数字)](https://leetcode.com/problems/missing-number/description/)|[C++](./algorithms/cpp/268_missingNumber.cpp)|Easy|
 |283|[Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/description/)|[C++](./algorithms/cpp/283_moveZeroes.cpp)|Easy|
+|*290|[Word Pattern(单词模式)](https://leetcode.com/problems/word-pattern/description/)|[C++](./algorithms/cpp/290_wordPattern.cpp)|Easy|
