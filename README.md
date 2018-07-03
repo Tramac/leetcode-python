@@ -62,3 +62,4 @@
 |242|[Valid Anagram(有效的字母异位词)](https://leetcode.com/problems/valid-anagram/description/)|[C++](./algorithms/cpp/242_isAnagram.cpp)|Easy|
 |*257|[Binary Tree Paths(二叉树的所有路径)](https://leetcode.com/problems/binary-tree-paths/description/)|[C++](./algorithms/cpp/257_binaryTreePaths.cpp)|Easy|
 |258|[Add Digits(各位相加)](https://leetcode.com/problems/add-digits/description/)|[C++](./algorithms/cpp/258_addDigits.cpp)|Easy|
+|263|[Ugly Number(丑数)](https://leetcode.com/problems/ugly-number/description/)|[C++](./algorithms/cpp/263_isUgly.cpp)|Easy|
