@@ -60,3 +60,4 @@
 |235|[Lowest Common Ancestor of a BST(二叉搜索树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[C++](./algorithms/cpp/235_lowestCommonAncestor.cpp)|Easy|
 |237|[Delete Node in a Linked List(删除链表中的节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[C++](./algorithms/cpp/237_deleteNode.cpp)|Easy|
 |242|[Valid Anagram(有效的字母异位词)](https://leetcode.com/problems/valid-anagram/description/)|[C++](./algorithms/cpp/242_isAnagram.cpp)|Easy|
+|*257|[Binary Tree Paths(二叉树的所有路径)](https://leetcode.com/problems/binary-tree-paths/description/)|[C++](./algorithms/cpp/257_binaryTreePaths.cpp)|Easy|
