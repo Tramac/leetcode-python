@@ -75,4 +75,4 @@
 |383|[Ransom Note(赎金信)](https://leetcode.com/problems/ransom-note/description/)|[C++](./algorithms/cpp/383_canConstruct.cpp)|Easy|
 |387|[First Unique Character in a String(字符串中的第一个唯一字符)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C++](./algorithms/cpp/387_firstUniqChar.cpp)|Easy|
 |389|[Find the Difference(找不同)](https://leetcode.com/problems/find-the-difference/description/)|[C++](./algorithms/cpp/389_findTheDifference.cpp)|Easy|
-|* 404|[Sum of Left Leaves(左叶子之和)](https://leetcode.com/problems/sum-of-left-leaves/description/)|[C++](./algorithms/cpp/404_sumOfLeftLeaves.cpp)|Easy|
+|*404|[Sum of Left Leaves(左叶子之和)](https://leetcode.com/problems/sum-of-left-leaves/description/)|[C++](./algorithms/cpp/404_sumOfLeftLeaves.cpp)|Easy|
