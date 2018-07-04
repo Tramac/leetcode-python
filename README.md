@@ -72,3 +72,4 @@
 |349|[Intersection of Two Arrays(两个数组的交集)](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C++](./algorithms/cpp/349_intersection.cpp)|Easy|
 |*350|[Intersection of Two Arrays II(两个数组的交集 II)](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C++](./algorithms/cpp/350_intersect.cpp)|Easy|
 |*367|[Valid Perfect Square(有效的完全平方数)](https://leetcode.com/problems/valid-perfect-square/description/)|[C++](./algorithms/cpp/367_isPerfectSquare.cpp)|Easy|
+|383|[Ransom Note(赎金信)](https://leetcode.com/problems/ransom-note/description/)|[C++](./algorithms/cpp/383_canConstruct.cpp)|Easy|
