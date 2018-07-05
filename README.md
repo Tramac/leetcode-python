@@ -81,3 +81,4 @@
 |*414|[Third Maximum Number(第三大的数)](https://leetcode.com/problems/third-maximum-number/description/)|[C++](./algorithms/cpp/414_thirdMax.cpp)|Easy|
 |415|[Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/description/)|[C++](./algorithms/cpp/415_addStrings.cpp)|Easy|
 |*434|[Number of Segments in a String(字符串中的单词数)](https://leetcode.com/problems/number-of-segments-in-a-string/description/)|[C++](./algorithms/cpp/434_countSegments.cpp)|Easy|
+|*437|[Path Sum III(路径总和 III)](https://leetcode.com/problems/path-sum-iii/description/)|[C++](./algorithms/cpp/437_pathSum.cpp)|Easy|
