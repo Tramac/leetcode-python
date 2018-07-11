@@ -34,6 +34,7 @@
 |112|[Path Sum(路径总和)](https://leetcode.com/problems/path-sum/description/)|[C++](./algorithms/cpp/112_hasPathSum.cpp)|Easy|
 |118|[Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/description/)|[C++](./algorithms/cpp/118_generate.cpp)|Easy|
 |119|[Pascal's Triangle II(杨辉三角 II)](https://leetcode.com/problems/pascals-triangle-ii/description/)|[C++](./algorithms/cpp/119_getRow.cpp)|Easy|
+|* 120|[Triangle(三角形最小路径和)](https://github.com/Tramac/leetcode/tree/master/algorithms/cpp)|[C++](./algorithms/cpp/120_minimumTotal.cpp)|Medium|
 |121|[Best Time to Buy and Sell Stock(买卖股票的最佳时机)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[C++](./algorithms/cpp/121_maxProfit.cpp)|Easy|
 |122|[Best Time to Buy and Sell Stock II(买卖股票的最佳时机 II)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[C++](./algorithms/cpp/122_maxProfit.cpp)|Easy|
 |125|[Valid Palindrome(验证回文串)](https://leetcode.com/problems/valid-palindrome/description/)|[C++](./algorithms/cpp/125_isPalindrome.cpp)|Easy|
