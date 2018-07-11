@@ -68,6 +68,7 @@
 |*257|[Binary Tree Paths(二叉树的所有路径)](https://leetcode.com/problems/binary-tree-paths/description/)|[C++](./algorithms/cpp/257_binaryTreePaths.cpp)|Easy|
 |258|[Add Digits(各位相加)](https://leetcode.com/problems/add-digits/description/)|[C++](./algorithms/cpp/258_addDigits.cpp)|Easy|
 |263|[Ugly Number(丑数)](https://leetcode.com/problems/ugly-number/description/)|[C++](./algorithms/cpp/263_isUgly.cpp)|Easy|
+|* 264|[Ugly Number II(丑数 II)](https://leetcode.com/problems/ugly-number-ii/description/)|[C++](./algorithms/cpp/263_nthUglyNumber.cpp)|Medium|
 |268|[Missing Number(缺失数字)](https://leetcode.com/problems/missing-number/description/)|[C++](./algorithms/cpp/268_missingNumber.cpp)|Easy|
 |283|[Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/description/)|[C++](./algorithms/cpp/283_moveZeroes.cpp)|Easy|
 |*290|[Word Pattern(单词模式)](https://leetcode.com/problems/word-pattern/description/)|[C++](./algorithms/cpp/290_wordPattern.cpp)|Easy|
