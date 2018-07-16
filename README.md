@@ -34,6 +34,7 @@
 |110|[Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/description/)|[C++](./algorithms/cpp/110_isBalanced.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree(二叉树的最小深度)](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/111_minDepth.cpp)|Easy|
 |112|[Path Sum(路径总和)](https://leetcode.com/problems/path-sum/description/)|[C++](./algorithms/cpp/112_hasPathSum.cpp)|Easy|
+|113|[Path Sum II(路径总和 II)](https://leetcode.com/problems/path-sum-ii/description/)|[C++](./algorithms/cpp/113_pathSum.cpp)|Medium|
 |118|[Pascal's Triangle(杨辉三角)](https://leetcode.com/problems/pascals-triangle/description/)|[C++](./algorithms/cpp/118_generate.cpp)|Easy|
 |119|[Pascal's Triangle II(杨辉三角 II)](https://leetcode.com/problems/pascals-triangle-ii/description/)|[C++](./algorithms/cpp/119_getRow.cpp)|Easy|
 |* 120|[Triangle(三角形最小路径和)](https://github.com/Tramac/leetcode/tree/master/algorithms/cpp)|[C++](./algorithms/cpp/120_minimumTotal.cpp)|Medium|
