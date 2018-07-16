@@ -27,6 +27,7 @@
 |100|[Same Tree(相同的树)](https://leetcode.com/problems/same-tree/description/)|[C++](./algorithms/cpp/100_isSameTree.cpp)|Easy|
 |101|[Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/description/)|[C++](./algorithms/cpp/101_isSymmetric.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/104_maxDepth.cpp)|Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[C++](./algorithms/cpp/105_buildTree.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II(二叉树的层次遍历 II)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](./algorithms/cpp/107_levelOrderBottom.cpp)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[C++](./algorithms/cpp/108_sortedArrayToBST.cpp)|Easy|
 |110|[Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/description/)|[C++](./algorithms/cpp/110_isBalanced.cpp)|Easy|
