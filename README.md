@@ -28,6 +28,7 @@
 |101|[Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/description/)|[C++](./algorithms/cpp/101_isSymmetric.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/104_maxDepth.cpp)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[C++](./algorithms/cpp/105_buildTree.cpp)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal(从中序与后序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|[C++](./algorithms/cpp/106_buildTree.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II(二叉树的层次遍历 II)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](./algorithms/cpp/107_levelOrderBottom.cpp)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[C++](./algorithms/cpp/108_sortedArrayToBST.cpp)|Easy|
 |110|[Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/description/)|[C++](./algorithms/cpp/110_isBalanced.cpp)|Easy|
@@ -46,19 +47,19 @@
 |160|[Intersection of Two Linked Lists(相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](./algorithms/cpp/160_getIntersectionNode.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted(两数之和 II - 输入有序数组)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./algorithms/cpp/167_twoSum.cpp)|Easy|
 |169|[Majority Element(超过一半的数字)](https://leetcode.com/problems/majority-element/description/)|[C++](./algorithms/cpp/169_majorityElement.cpp)|Easy|
-|*172|[Factorial Trailing Zeroes(阶乘后的零)](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C++](./algorithms/cpp/172_trailingZeroes.cpp)|Easy|
-|*189|[Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/description/)|[C++](./algorithms/cpp/189_rotate.cpp)|Easy|
+|* 172|[Factorial Trailing Zeroes(阶乘后的零)](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C++](./algorithms/cpp/172_trailingZeroes.cpp)|Easy|
+|* 189|[Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/description/)|[C++](./algorithms/cpp/189_rotate.cpp)|Easy|
 |190|[Reverse Bits(颠倒二进制位)](https://leetcode.com/problems/reverse-bits/description/)|[C++](./algorithms/cpp/190_reverseBits.cpp)|Easy|
 |191|[Number of 1 Bits(位1的个数)](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](./algorithms/cpp/191_hammingWeight.cpp)|Easy|
 |202|[Happy Number(快乐数)](https://leetcode.com/problems/happy-number/description/)|[C++](./algorithms/cpp/202_isHappy.cpp)|Easy|
 |203|[Remove Linked List Elements(删除链表中的节点)](https://leetcode.com/problems/remove-linked-list-elements/description/)|[C++](./algorithms/cpp/203_removeElements.cpp)|Easy|
-|*204|[Count Primes(计数质数)](https://leetcode.com/problems/count-primes/description/)|[C++](./algorithms/cpp/204_countPrimes.cpp)|Easy|
-|*205|[Isomorphic Strings(同构字符串)](https://leetcode.com/problems/isomorphic-strings/description/)|[C++](./algorithms/cpp/205_isIsomorphic.cpp)|Easy|
+|* 204|[Count Primes(计数质数)](https://leetcode.com/problems/count-primes/description/)|[C++](./algorithms/cpp/204_countPrimes.cpp)|Easy|
+|* 205|[Isomorphic Strings(同构字符串)](https://leetcode.com/problems/isomorphic-strings/description/)|[C++](./algorithms/cpp/205_isIsomorphic.cpp)|Easy|
 |*206|[Reverse Linked List(反转链表)](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](./algorithms/cpp/206_reverseList.cpp)|Easy|
 |* 213|[House Robber II(打家劫舍 II)](https://leetcode.com/problems/house-robber-ii/description/)|[C++](./algorithms/cpp/213_rob.cpp)|Medium|
 |217|[Contains Duplicate(存在重复元素)](https://leetcode.com/problems/contains-duplicate/description/)|[C++](./algorithms/cpp/217_containsDuplicate.cpp)|Easy|
-|*219|[Contains Duplicate II(存在重复元素 II)](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C++](./algorithms/cpp/219_containsNearbyDuplicate.cpp)|Easy|
-|*225|[Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/description/)|[C++](./algorithms/cpp/225_MyStack.cpp)|Easy|
+|* 219|[Contains Duplicate II(存在重复元素 II)](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C++](./algorithms/cpp/219_containsNearbyDuplicate.cpp)|Easy|
+|* 225|[Implement Stack using Queues(用队列实现栈)](https://leetcode.com/problems/implement-stack-using-queues/description/)|[C++](./algorithms/cpp/225_MyStack.cpp)|Easy|
 |226|[Invert Binary Tree(翻转二叉树)](https://leetcode.com/problems/invert-binary-tree/description/)|[C++](./algorithms/cpp/226_invertTree.cpp)|Easy|
 |231|[Power of Two(2的幂)](https://leetcode.com/problems/power-of-two/description/)|[C++](./algorithms/cpp/231_isPowerOfTwo.cpp)|Easy|
 |232|[Implement Queue using Stacks(用栈实现队列)](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[C++](./algorithms/cpp/232_MyQueue.cpp)|Easy|
@@ -66,13 +67,13 @@
 |235|[Lowest Common Ancestor of a BST(二叉搜索树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[C++](./algorithms/cpp/235_lowestCommonAncestor.cpp)|Easy|
 |237|[Delete Node in a Linked List(删除链表中的节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[C++](./algorithms/cpp/237_deleteNode.cpp)|Easy|
 |242|[Valid Anagram(有效的字母异位词)](https://leetcode.com/problems/valid-anagram/description/)|[C++](./algorithms/cpp/242_isAnagram.cpp)|Easy|
-|*257|[Binary Tree Paths(二叉树的所有路径)](https://leetcode.com/problems/binary-tree-paths/description/)|[C++](./algorithms/cpp/257_binaryTreePaths.cpp)|Easy|
+|* 257|[Binary Tree Paths(二叉树的所有路径)](https://leetcode.com/problems/binary-tree-paths/description/)|[C++](./algorithms/cpp/257_binaryTreePaths.cpp)|Easy|
 |258|[Add Digits(各位相加)](https://leetcode.com/problems/add-digits/description/)|[C++](./algorithms/cpp/258_addDigits.cpp)|Easy|
 |263|[Ugly Number(丑数)](https://leetcode.com/problems/ugly-number/description/)|[C++](./algorithms/cpp/263_isUgly.cpp)|Easy|
 |* 264|[Ugly Number II(丑数 II)](https://leetcode.com/problems/ugly-number-ii/description/)|[C++](./algorithms/cpp/263_nthUglyNumber.cpp)|Medium|
 |268|[Missing Number(缺失数字)](https://leetcode.com/problems/missing-number/description/)|[C++](./algorithms/cpp/268_missingNumber.cpp)|Easy|
 |283|[Move Zeroes(移动零)](https://leetcode.com/problems/move-zeroes/description/)|[C++](./algorithms/cpp/283_moveZeroes.cpp)|Easy|
-|*290|[Word Pattern(单词模式)](https://leetcode.com/problems/word-pattern/description/)|[C++](./algorithms/cpp/290_wordPattern.cpp)|Easy|
+|* 290|[Word Pattern(单词模式)](https://leetcode.com/problems/word-pattern/description/)|[C++](./algorithms/cpp/290_wordPattern.cpp)|Easy|
 |292|[Nim Game(Nim游戏)](https://leetcode.com/problems/nim-game/description/)|[C++](./algorithms/cpp/292_canWinNim.cpp)|Easy|
 |* 300|[Longest Increasing Subsequence(最长上升子序列)](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++](./algorithms/cpp/300_lengthOfLIS.cpp)|Medium|
 |* 309|[Best Time to Buy and Sell Stock with Cooldown(最佳买卖股票时机含冷冻期)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)|[C++](./algorithms/cpp/309_maxProfit.cpp)|Medium|
@@ -81,15 +82,15 @@
 |344|[Reverse String(反转字符串)](https://leetcode.com/problems/reverse-string/description/)|[C++](./algorithms/cpp/344_reverseString.cpp)|Easy|
 |345|[Reverse Vowels of a String(反转字符串中的元音字母)](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C++](./algorithms/cpp/345_reverseVowels.cpp)|Easy|
 |349|[Intersection of Two Arrays(两个数组的交集)](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C++](./algorithms/cpp/349_intersection.cpp)|Easy|
-|*350|[Intersection of Two Arrays II(两个数组的交集 II)](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C++](./algorithms/cpp/350_intersect.cpp)|Easy|
-|*367|[Valid Perfect Square(有效的完全平方数)](https://leetcode.com/problems/valid-perfect-square/description/)|[C++](./algorithms/cpp/367_isPerfectSquare.cpp)|Easy|
+|* 350|[Intersection of Two Arrays II(两个数组的交集 II)](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C++](./algorithms/cpp/350_intersect.cpp)|Easy|
+|* 367|[Valid Perfect Square(有效的完全平方数)](https://leetcode.com/problems/valid-perfect-square/description/)|[C++](./algorithms/cpp/367_isPerfectSquare.cpp)|Easy|
 |383|[Ransom Note(赎金信)](https://leetcode.com/problems/ransom-note/description/)|[C++](./algorithms/cpp/383_canConstruct.cpp)|Easy|
 |387|[First Unique Character in a String(字符串中的第一个唯一字符)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C++](./algorithms/cpp/387_firstUniqChar.cpp)|Easy|
 |389|[Find the Difference(找不同)](https://leetcode.com/problems/find-the-difference/description/)|[C++](./algorithms/cpp/389_findTheDifference.cpp)|Easy|
-|*404|[Sum of Left Leaves(左叶子之和)](https://leetcode.com/problems/sum-of-left-leaves/description/)|[C++](./algorithms/cpp/404_sumOfLeftLeaves.cpp)|Easy|
-|*405|[Convert a Number to Hexadecimal(数字转换为十六进制数)](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)|[C++](./algorithms/cpp/405_toHex.cpp)|Easy|
+|* 404|[Sum of Left Leaves(左叶子之和)](https://leetcode.com/problems/sum-of-left-leaves/description/)|[C++](./algorithms/cpp/404_sumOfLeftLeaves.cpp)|Easy|
+|* 405|[Convert a Number to Hexadecimal(数字转换为十六进制数)](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)|[C++](./algorithms/cpp/405_toHex.cpp)|Easy|
 |409|[Longest Palindromel(最长回文串)](https://leetcode.com/problems/longest-palindrome/description/)|[C++](./algorithms/cpp/409_longestPalindrome.cpp)|Easy|
-|*414|[Third Maximum Number(第三大的数)](https://leetcode.com/problems/third-maximum-number/description/)|[C++](./algorithms/cpp/414_thirdMax.cpp)|Easy|
+|* 414|[Third Maximum Number(第三大的数)](https://leetcode.com/problems/third-maximum-number/description/)|[C++](./algorithms/cpp/414_thirdMax.cpp)|Easy|
 |415|[Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/description/)|[C++](./algorithms/cpp/415_addStrings.cpp)|Easy|
-|*434|[Number of Segments in a String(字符串中的单词数)](https://leetcode.com/problems/number-of-segments-in-a-string/description/)|[C++](./algorithms/cpp/434_countSegments.cpp)|Easy|
-|*437|[Path Sum III(路径总和 III)](https://leetcode.com/problems/path-sum-iii/description/)|[C++](./algorithms/cpp/437_pathSum.cpp)|Easy|
+|* 434|[Number of Segments in a String(字符串中的单词数)](https://leetcode.com/problems/number-of-segments-in-a-string/description/)|[C++](./algorithms/cpp/434_countSegments.cpp)|Easy|
+|* 437|[Path Sum III(路径总和 III)](https://leetcode.com/problems/path-sum-iii/description/)|[C++](./algorithms/cpp/437_pathSum.cpp)|Easy|
