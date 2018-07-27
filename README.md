@@ -14,6 +14,7 @@
 |26|[Remove Duplicates from Sorted Array(删除排序数组中的重复项)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./algorithms/cpp/026_removeDuplicates.cpp)|Easy|
 |27|[Remove Element(移除元素)](https://leetcode.com/problems/remove-element/description/) | [C++](./algorithms/cpp/027_removeElement.cpp)|Easy|
 |28|[Implement strStr()(实现strStr())](https://leetcode.com/problems/implement-strstr/description/) | [C++](./algorithms/cpp/028_strStr.cpp)|Easy|
+|31|[Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/description/) | [C++](./algorithms/cpp/031_nextPermutation.cpp)|Medium|
 |35|[Search Insert Position(搜索插入位置)](https://leetcode.com/problems/search-insert-position/description/) | [C++](./algorithms/cpp/035_searchInsert.cpp)|Easy|
 |53|[Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/description/) | [C++](./algorithms/cpp/053_maxSubArray.cpp)|Easy|
 |58|[Length of Last Word(最后一个单词的长度)](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./algorithms/cpp/058_lengthOfLastWord.cpp)|Easy|
@@ -53,7 +54,7 @@
 |169|[Majority Element(超过一半的数字)](https://leetcode.com/problems/majority-element/description/)|[C++](./algorithms/cpp/169_majorityElement.cpp)|Easy|
 |* 172|[Factorial Trailing Zeroes(阶乘后的零)](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C++](./algorithms/cpp/172_trailingZeroes.cpp)|Easy|
 |* 189|[Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/description/)|[C++](./algorithms/cpp/189_rotate.cpp)|Easy|
-|190|[Reverse Bits(颠倒二进制位)](https://leetcode.com/problems/reverse-bits/description/)|[C++](./algorithms/cpp/190_reverseBits.cpp)|Easy|
+|190|[Reverse Bits(颠倒二进制位)](https://leetcode.com/strStrproblems/reverse-bits/description/)|[C++](./algorithms/cpp/190_reverseBits.cpp)|Easy|
 |191|[Number of 1 Bits(位1的个数)](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](./algorithms/cpp/191_hammingWeight.cpp)|Easy|
 |* 200|[Number of Islands(岛屿的个数)](https://leetcode.com/problems/number-of-islands/description/)|[C++](./algorithms/cpp/200_numIslands.cpp)|Medium|
 |202|[Happy Number(快乐数)](https://leetcode.com/problems/happy-number/description/)|[C++](./algorithms/cpp/202_isHappy.cpp)|Easy|
