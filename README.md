@@ -92,6 +92,7 @@
 |345|[Reverse Vowels of a String(反转字符串中的元音字母)](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C++](./algorithms/cpp/345_reverseVowels.cpp)|Easy|
 |349|[Intersection of Two Arrays(两个数组的交集)](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C++](./algorithms/cpp/349_intersection.cpp)|Easy|
 |* 350|[Intersection of Two Arrays II(两个数组的交集 II)](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C++](./algorithms/cpp/350_intersect.cpp)|Easy|
+|357|[Count Numbers with Unique Digits(计算各个位数不同的数字个数)](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|[C++](./algorithms/cpp/357_countNumbersWithUniqueDigits.cpp)|Medium|
 |* 367|[Valid Perfect Square(有效的完全平方数)](https://leetcode.com/problems/valid-perfect-square/description/)|[C++](./algorithms/cpp/367_isPerfectSquare.cpp)|Easy|
 |383|[Ransom Note(赎金信)](https://leetcode.com/problems/ransom-note/description/)|[C++](./algorithms/cpp/383_canConstruct.cpp)|Easy|
 |387|[First Unique Character in a String(字符串中的第一个唯一字符)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C++](./algorithms/cpp/387_firstUniqChar.cpp)|Easy|
