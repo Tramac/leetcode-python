@@ -54,6 +54,7 @@
 |167|[Two Sum II - Input array is sorted(两数之和 II - 输入有序数组)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./algorithms/cpp/167_twoSum.cpp)|Easy|
 |169|[Majority Element(超过一半的数字)](https://leetcode.com/problems/majority-element/description/)|[C++](./algorithms/cpp/169_majorityElement.cpp)|Easy|
 |* 172|[Factorial Trailing Zeroes(阶乘后的零)](https://leetcode.com/problems/factorial-trailing-zeroes/description/)|[C++](./algorithms/cpp/172_trailingZeroes.cpp)|Easy|
+|* 179|[Largest Number(最大数)](https://leetcode.com/problems/largest-number/description/)|[C++](./algorithms/cpp/179_largestNumber.cpp)|Medium|
 |* 189|[Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/description/)|[C++](./algorithms/cpp/189_rotate.cpp)|Easy|
 |190|[Reverse Bits(颠倒二进制位)](https://leetcode.com/strStrproblems/reverse-bits/description/)|[C++](./algorithms/cpp/190_reverseBits.cpp)|Easy|
 |191|[Number of 1 Bits(位1的个数)](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](./algorithms/cpp/191_hammingWeight.cpp)|Easy|
