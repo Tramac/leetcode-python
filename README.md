@@ -105,3 +105,4 @@
 |* 434|[Number of Segments in a String(字符串中的单词数)](https://leetcode.com/problems/number-of-segments-in-a-string/description/)|[C++](./algorithms/cpp/434_countSegments.cpp)|Easy|
 |* 437|[Path Sum III(路径总和 III)](https://leetcode.com/problems/path-sum-iii/description/)|[C++](./algorithms/cpp/437_pathSum.cpp)|Easy|
 |* 754|[Reach a Number(到达终点数字)](https://leetcode.com/problems/reach-a-number/description/)|[C++](./algorithms/cpp/754_reachNumber.cpp)|Medium|
+|816|[Ambiguous Coordinates(模糊坐标)](https://leetcode.com/problems/ambiguous-coordinates/description/)|[C++](./algorithms/cpp/816_ambiguousCoordinates.cpp)|Medium|
