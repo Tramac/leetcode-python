@@ -104,6 +104,7 @@
 |409|[Longest Palindromel(最长回文串)](https://leetcode.com/problems/longest-palindrome/description/)|[C++](./algorithms/cpp/409_longestPalindrome.cpp)|Easy|
 |* 414|[Third Maximum Number(第三大的数)](https://leetcode.com/problems/third-maximum-number/description/)|[C++](./algorithms/cpp/414_thirdMax.cpp)|Easy|
 |415|[Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/description/)|[C++](./algorithms/cpp/415_addStrings.cpp)|Easy|
+|* 416|[Partition Equal Subset Sum(分割等和子集)](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[C++](./algorithms/cpp/416_canPartition.cpp)|Medium|动态规划|
 |* 434|[Number of Segments in a String(字符串中的单词数)](https://leetcode.com/problems/number-of-segments-in-a-string/description/)|[C++](./algorithms/cpp/434_countSegments.cpp)|Easy|
 |* 437|[Path Sum III(路径总和 III)](https://leetcode.com/problems/path-sum-iii/description/)|[C++](./algorithms/cpp/437_pathSum.cpp)|Easy|
 |* 452|[Minimum Number of Arrows to Burst Balloons(用最少数量的箭引爆气球)](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C++](./algorithms/cpp/452_findMinArrowShots.cpp)|Medium|贪心|
