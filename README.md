@@ -1,8 +1,8 @@
 # leetcode
 
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Topics |
+|---| ----- | -------- | ---------- | ------ |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./algorithms/cpp/001_twoSum.cpp)|Easy|
 |* 5|[Longest Palindromic Substring(最长回文子串)](https://leetcode.com/problems/longest-palindromic-substring/description/) | [C++](./algorithms/cpp/001_twoSum.cpp)|Easy|
 |7|[Reverse Integer(翻转整数)](https://leetcode.com/problems/reverse-integer/description/) | [C++](./algorithms/cpp/005_longestPalindrome.cpp)|Medium|
@@ -32,7 +32,7 @@
 |101|[Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/description/)|[C++](./algorithms/cpp/101_isSymmetric.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/104_maxDepth.cpp)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[C++](./algorithms/cpp/105_buildTree.cpp)|Medium|
-|106|[Construct Binary Tree from Inorder and Postorder Traversal(从中序与后序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|[C++](./algorithms/cpp/106_buildTree.cpp)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal(从中序与后序遍历序列构造二叉树)](https://leetcode.com/problems/construct-binary-tree-from-inorder-pathSumand-postorder-traversal/description/)|[C++](./algorithms/cpp/106_buildTree.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II(二叉树的层次遍历 II)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[C++](./algorithms/cpp/107_levelOrderBottom.cpp)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree(将有序数组转换为二叉搜索树)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[C++](./algorithms/cpp/108_sortedArrayToBST.cpp)|Easy|
 |110|[Balanced Binary Tree(平衡二叉树)](https://leetcode.com/problems/balanced-binary-tree/description/)|[C++](./algorithms/cpp/110_isBalanced.cpp)|Easy|
@@ -105,7 +105,7 @@
 |415|[Add Strings(字符串相加)](https://leetcode.com/problems/add-strings/description/)|[C++](./algorithms/cpp/415_addStrings.cpp)|Easy|
 |* 434|[Number of Segments in a String(字符串中的单词数)](https://leetcode.com/problems/number-of-segments-in-a-string/description/)|[C++](./algorithms/cpp/434_countSegments.cpp)|Easy|
 |* 437|[Path Sum III(路径总和 III)](https://leetcode.com/problems/path-sum-iii/description/)|[C++](./algorithms/cpp/437_pathSum.cpp)|Easy|
-|* 452|[Minimum Number of Arrows to Burst Balloons(用最少数量的箭引爆气球)](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C++](./algorithms/cpp/452_findMinArrowShots.cpp)|Medium|
+|* 452|[Minimum Number of Arrows to Burst Balloons(用最少数量的箭引爆气球)](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[C++](./algorithms/cpp/452_findMinArrowShots.cpp)|Medium|贪心|
 |* 491|[Increasing Subsequences(递增子序列)](https://leetcode.com/problems/increasing-subsequences/description/)|[C++](./algorithms/cpp/491_findSubsequences.cpp)|Medium|
 |* 518|[Coin Change 2(零钱兑换 II)](https://leetcode.com/problems/coin-change-2/description/)|[C++](./algorithms/cpp/518_change.cpp)|Medium|
 |658|[Find K Closest Elements(寻找最近的K个元素)](https://leetcode.com/problems/find-k-closest-elements/description/)|[C++](./algorithms/cpp/658_findClosestElements.cpp)|Medium|
