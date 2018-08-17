@@ -118,5 +118,6 @@
 |658|[Find K Closest Elements(寻找最近的K个元素)](https://leetcode.com/problems/find-k-closest-elements/description/)|[C++](./algorithms/cpp/658_findClosestElements.cpp)|Medium|
 |* 713|[Subarray Product Less Than K(乘积小于K的子数组)](https://leetcode.com/problems/subarray-product-less-than-k/description/)|[C++](./algorithms/cpp/713_numSubarrayProductLessThanK.cpp)|Medium|
 |* 754|[Reach a Number(到达终点数字)](https://leetcode.com/problems/reach-a-number/description/)|[C++](./algorithms/cpp/754_reachNumber.cpp)|Medium|
+|* 769|[Max Chunks To Make Sorted(最多能完成排序的块)](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)|[C++](./algorithms/cpp/769_maxChunksToSorted.cpp)|Medium|数组|
 |816|[Ambiguous Coordinates(模糊坐标)](https://leetcode.com/problems/ambiguous-coordinates/description/)|[C++](./algorithms/cpp/816_ambiguousCoordinates.cpp)|Medium|
 |* 841|[Keys and Rooms(钥匙和房间)](https://leetcode.com/problems/keys-and-rooms/description/)|[C++](./algorithms/cpp/841_canVisitAllRooms.cpp)|Medium|DFS,图|
