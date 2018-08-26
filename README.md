@@ -59,6 +59,7 @@
 |* 189|[Rotate Array(旋转数组)](https://leetcode.com/problems/rotate-array/description/)|[C++](./algorithms/cpp/189_rotate.cpp)|Easy|
 |190|[Reverse Bits(颠倒二进制位)](https://leetcode.com/strStrproblems/reverse-bits/description/)|[C++](./algorithms/cpp/190_reverseBits.cpp)|Easy|
 |191|[Number of 1 Bits(位1的个数)](https://leetcode.com/problems/number-of-1-bits/description/)|[C++](./algorithms/cpp/191_hammingWeight.cpp)|Easy|
+|198|[House Robber(打家劫舍)](https://leetcode.com/problems/house-robber/description/)|[C++](./algorithms/cpp/198_rob.cpp)|Easy|
 |* 199|[Binary Tree Right Side View(二叉树的右视图)](https://leetcode.com/problems/binary-tree-right-side-view/description/)|[C++](./algorithms/cpp/199_rightSideView.cpp)|Medium|深度优先搜索|
 |* 200|[Number of Islands(岛屿的个数)](https://leetcode.com/problems/number-of-islands/description/)|[C++](./algorithms/cpp/200_numIslands.cpp)|Medium|
 |202|[Happy Number(快乐数)](https://leetcode.com/problems/happy-number/description/)|[C++](./algorithms/cpp/202_isHappy.cpp)|Easy|
