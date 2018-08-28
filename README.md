@@ -102,6 +102,7 @@
 |383|[Ransom Note(赎金信)](https://leetcode.com/problems/ransom-note/description/)|[C++](./algorithms/cpp/383_canConstruct.cpp)|Easy|
 |387|[First Unique Character in a String(字符串中的第一个唯一字符)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C++](./algorithms/cpp/387_firstUniqChar.cpp)|Easy|
 |389|[Find the Difference(找不同)](https://leetcode.com/problems/find-the-difference/description/)|[C++](./algorithms/cpp/389_findTheDifference.cpp)|Easy|
+|* 402|[Remove K Digits(移掉K位数字)](https://leetcode.com/problems/remove-k-digits/description/)|[C++](./algorithms/cpp/402_removeKdigits.cpp)|Medium|字符串|
 |* 404|[Sum of Left Leaves(左叶子之和)](https://leetcode.com/problems/sum-of-left-leaves/description/)|[C++](./algorithms/cpp/404_sumOfLeftLeaves.cpp)|Easy|
 |* 405|[Convert a Number to Hexadecimal(数字转换为十六进制数)](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)|[C++](./algorithms/cpp/405_toHex.cpp)|Easy|
 |* 406|[Queue Reconstruction by Height(根据身高重建队列)](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[C++](./algorithms/cpp/406_reconstructQueue.cpp)|Medium|贪心|
