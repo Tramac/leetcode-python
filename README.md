@@ -98,6 +98,7 @@
 |* 350|[Intersection of Two Arrays II(两个数组的交集 II)](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[C++](./algorithms/cpp/350_intersect.cpp)|Easy|
 |357|[Count Numbers with Unique Digits(计算各个位数不同的数字个数)](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|[C++](./algorithms/cpp/357_countNumbersWithUniqueDigits.cpp)|Medium|
 |* 367|[Valid Perfect Square(有效的完全平方数)](https://leetcode.com/problems/valid-perfect-square/description/)|[C++](./algorithms/cpp/367_isPerfectSquare.cpp)|Easy|
+|* 368|[Largest Divisible Subset(最大整除子集)](https://leetcode.com/problems/largest-divisible-subset/description/)|[C++](./algorithms/cpp/368_largestDivisibleSubset.cpp)|Medium|动态规划|
 |383|[Ransom Note(赎金信)](https://leetcode.com/problems/ransom-note/description/)|[C++](./algorithms/cpp/383_canConstruct.cpp)|Easy|
 |387|[First Unique Character in a String(字符串中的第一个唯一字符)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C++](./algorithms/cpp/387_firstUniqChar.cpp)|Easy|
 |389|[Find the Difference(找不同)](https://leetcode.com/problems/find-the-difference/description/)|[C++](./algorithms/cpp/389_findTheDifference.cpp)|Easy|
