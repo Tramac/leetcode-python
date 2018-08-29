@@ -79,6 +79,7 @@
 |234|[Palindrome Linked List(回文链表)](https://leetcode.com/problems/palindrome-linked-list/description/)|[C++](./algorithms/cpp/234_isPalindrome.cpp)|Easy|
 |235|[Lowest Common Ancestor of a BST(二叉搜索树的最近公共祖先)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[C++](./algorithms/cpp/235_lowestCommonAncestor.cpp)|Easy|
 |237|[Delete Node in a Linked List(删除链表中的节点)](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[C++](./algorithms/cpp/237_deleteNode.cpp)|Easy|
+|240|[Search a 2D Matrix II(搜索二维矩阵 II)](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[C++](./algorithms/cpp/240_searchMatrix.cpp)|Medium|二分查找|
 |242|[Valid Anagram(有效的字母异位词)](https://leetcode.com/problems/valid-anagram/description/)|[C++](./algorithms/cpp/242_isAnagram.cpp)|Easy|
 |* 257|[Binary Tree Paths(二叉树的所有路径)](https://leetcode.com/problems/binary-tree-paths/description/)|[C++](./algorithms/cpp/257_binaryTreePaths.cpp)|Easy|
 |258|[Add Digits(各位相加)](https://leetcode.com/problems/add-digits/description/)|[C++](./algorithms/cpp/258_addDigits.cpp)|Easy|
