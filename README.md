@@ -29,6 +29,7 @@
 |83|[Remove Duplicates from Sorted List(删除排序链表中的重复元素)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C++](./algorithms/cpp/083_deleteDuplicates.cpp)|Easy|
 |88|[Merge Sorted Array(合并两个有序数组)](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](./algorithms/cpp/088_merge.cpp)|Easy|
 |* 95|[Unique Binary Search Trees II(不同的二叉搜索树 II)](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[C++](./algorithms/cpp/095_generateTrees.cpp)|Medium|
+|* 96|[Unique Binary Search Trees(不同的二叉搜索树)](https://leetcode.com/problems/unique-binary-search-trees/description/)|[C++](./algorithms/cpp/096_numTrees.cpp)|Medium|动态规划|
 |100|[Same Tree(相同的树)](https://leetcode.com/problems/same-tree/description/)|[C++](./algorithms/cpp/100_isSameTree.cpp)|Easy|
 |101|[Symmetric Tree(对称二叉树)](https://leetcode.com/problems/symmetric-tree/description/)|[C++](./algorithms/cpp/101_isSymmetric.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree(二叉树的最大深度)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[C++](./algorithms/cpp/104_maxDepth.cpp)|Easy|
