@@ -50,6 +50,7 @@
 |136|[Single Number(只出现一次的数字)](https://leetcode.com/problems/single-number/description/)|[C++](./algorithms/cpp/136_singleNumber.cpp)|Easy|
 |141|[Linked List Cycle(环形链表)](https://leetcode.com/problems/linked-list-cycle/description/)|[C++](./algorithms/cpp/141_hasCycle.cpp)|Easy|
 |152|[Maximum Product Subarray(最大子段积)](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](./algorithms/cpp/152_maximumProductSubarray.cpp)|Easy|
+|153|[Find Minimum in Rotated Sorted Array(寻找旋转排序数组中的最小值)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](./algorithms/cpp/153_findMin.cpp)|Medium|二分查找|
 |155|[Min Stack(最小栈)](https://leetcode.com/problems/min-stack/description/)|[C++](./algorithms/cpp/155_MinStack.cpp)|Easy|
 |160|[Intersection of Two Linked Lists(相交链表)](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[C++](./algorithms/cpp/160_getIntersectionNode.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted(两数之和 II - 输入有序数组)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](./algorithms/cpp/167_twoSum.cpp)|Easy|
