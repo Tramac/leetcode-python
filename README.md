@@ -16,6 +16,7 @@
 |28|[Implement strStr()(实现strStr())](https://leetcode.com/problems/implement-strstr/description/) | [C++](./algorithms/cpp/028_strStr.cpp)|Easy|
 |31|[Next Permutation(下一个排列)](https://leetcode.com/problems/next-permutation/description/) | [C++](./algorithms/cpp/031_nextPermutation.cpp)|Medium|
 |35|[Search Insert Position(搜索插入位置)](https://leetcode.com/problems/search-insert-position/description/) | [C++](./algorithms/cpp/035_searchInsert.cpp)|Easy|
+|* 52|[N-Queens II(N皇后 II)](https://leetcode.com/problems/n-queens-ii/description/) | [C++](./algorithms/cpp/052_totalNQueens.cpp)|Medium|回溯算法|
 |53|[Maximum Subarray(最大子序和)](https://leetcode.com/problems/maximum-subarray/description/) | [C++](./algorithms/cpp/053_maxSubArray.cpp)|Easy|
 |* 56|[Merge Intervals(合并区间)](https://leetcode.com/problems/merge-intervals/description/) | [C++](./algorithms/cpp/056_merge.cpp)|Medium|排序|
 |58|[Length of Last Word(最后一个单词的长度)](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./algorithms/cpp/058_lengthOfLastWord.cpp)|Easy|
