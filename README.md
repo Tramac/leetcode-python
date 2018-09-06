@@ -123,6 +123,7 @@
 |* 518|[Coin Change 2(零钱兑换 II)](https://leetcode.com/problems/coin-change-2/description/)|[C++](./algorithms/cpp/518_change.cpp)|Medium|
 |* 542|[01 Matrix(01 矩阵)](https://leetcode.com/problems/01-matrix/description/)|[C++](./algorithms/cpp/542_updateMatrix.cpp)|Medium|BFS|
 |658|[Find K Closest Elements(寻找最近的K个元素)](https://leetcode.com/problems/find-k-closest-elements/description/)|[C++](./algorithms/cpp/658_findClosestElements.cpp)|Medium|
+|678|[Valid Parenthesis String(有效的括号字符串)](https://leetcode.com/problems/valid-parenthesis-string/description/)|[C++](./algorithms/cpp/678_checkValidString.cpp)|Medium|递归|
 |* 713|[Subarray Product Less Than K(乘积小于K的子数组)](https://leetcode.com/problems/subarray-product-less-than-k/description/)|[C++](./algorithms/cpp/713_numSubarrayProductLessThanK.cpp)|Medium|
 |* 754|[Reach a Number(到达终点数字)](https://leetcode.com/problems/reach-a-number/description/)|[C++](./algorithms/cpp/754_reachNumber.cpp)|Medium|
 |* 769|[Max Chunks To Make Sorted(最多能完成排序的块)](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)|[C++](./algorithms/cpp/769_maxChunksToSorted.cpp)|Medium|数组|
